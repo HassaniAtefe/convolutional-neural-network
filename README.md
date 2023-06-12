@@ -1,4 +1,4 @@
-# Convolutional-Neural-Network-
+# Convolutional Neural Network
 
 This tutorial demonstrates training a simple Convolutional Neural Network (CNN) to classify CIFAR images.
 
